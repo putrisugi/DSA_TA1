@@ -1,6 +1,15 @@
 package main;
 import java.util.Scanner;
 
+/**
+ * Tugas Kelompok 1 - Week 3
+ * Group 6
+ * Anggota : 2902733081 - Agnes Sugiyanto Putri
+ *           2902712240 - Chindra Saputra Ramadan
+ *           2902739620 - Dhea Najmi Azzahra
+ *           2902733301 - Voleta Inshofiyah
+ */
+
 // ============================================================
 // CLASS Lagu - Merepresentasikan setiap lagu dalam playlist
 // Menerapkan konsep ENKAPSULASI: semua atribut bersifat private
